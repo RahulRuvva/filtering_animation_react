@@ -32,6 +32,7 @@ h2 {
 }
 
 button.active {
-  background: #899203;
-  color: rgb(39, 150, 5);
+  background: #4329b6;
+  color: rgb(228, 222, 226);
+  border:2px solid rgb(177, 171, 171);
 }
